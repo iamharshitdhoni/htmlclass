@@ -1,3 +1,23 @@
-h1 {
-    color: red;
+img {
+    height: 400px;
+    width: 600px;
+}
+.para {
+    width: 600px;
+    height: 400px;
+}
+#main {
+    display: flex;
+    justify-content: space-around;
+}
+.para2 {
+     height: 400px;
+     width: 600px;
+}
+#main2 {
+    display: flex;
+    justify-content: space-around;
+}
+@media screen {
+    
 }
