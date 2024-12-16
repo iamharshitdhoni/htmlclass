@@ -22,7 +22,7 @@ const obj = {
 console.log(obj) ;
 
 function fun(){
-    document.write('hello world')
+    console.log('hello world')
 
 }
     
@@ -34,7 +34,7 @@ for (friends in name){
 }   
 
 for (let i = 0; i<=10; i++){
-    document.write(i);
+    console.log(i);
 }
 
 
